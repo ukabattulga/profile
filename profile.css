@@ -1,0 +1,33 @@
+h2 {
+  font-family: 'Poiret One', cursive;
+}
+
+#redbottle {
+  color: pink;
+  border: 10px solid white;
+  background:white;
+  padding: 20px;
+}
+
+ul {
+  border: 5px solid #FF0066;
+  background: #FFCCFF;
+  padding: 20px;
+  margin: 10px;
+  margin-left: 500px;
+  margin-right:500px;
+  list-style: square inside url("sqpurple.gif");
+}
+
+h2 {
+  text-align: center;
+}
+
+#bio {
+  color: pink;
+  border: 20px solid white;
+  margin-left: 400px;
+  margin-right: 400px;
+  background: white;
+  padding: inherit;
+}
